@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+    "company": "Reimagine Robotics",
+    "headline": "Reimagine Robotics emerges from stealth with robots that \"learn on the job\"",
+    "posted_date": "2026-08-04"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+    "company": "Alibaba",
+    "headline": "Alibaba releases Qwen3.8-Max, a 2.4-trillion-parameter model",
+    "posted_date": "2026-08-04"
+  },
+  {
+    "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
+    "company": "Microsoft AI",
+    "headline": "Microsoft launches Project Perception, an agentic AI cybersecurity platform",
+    "posted_date": "2026-08-04"
+  },
+  {
+    "url": "https://www.notebookcheck.net/BYD-officially-unveils-AI-robot-Xiao-Di-Tesla-Optimus-faces-new-rival-as-the-U-S-blocks-it.1359680.0.html",
+    "company": "BYD",
+    "headline": "BYD unveils humanoid robot Xiao Di to rival Tesla Optimus",
+    "posted_date": "2026-08-05"
+  },
+  {
+    "url": "https://www.globaltimes.cn/page/202608/1367550.shtml",
+    "company": "Unitree",
+    "headline": "Unitree prices STAR Market IPO, valuing humanoid robot maker at $5.9B+",
+    "posted_date": "2026-08-05"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+    "company": "Google DeepMind",
+    "headline": "Google DeepMind CEO Demis Hassabis steps back amid leadership shake-up",
+    "posted_date": "2026-08-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+    "company": "Zoox",
+    "headline": "Zoox to start charging for robotaxi rides in Las Vegas",
+    "posted_date": "2026-08-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "company": "OpenAI",
+    "headline": "OpenAI brings unlimited ChatGPT text chats to free users",
+    "posted_date": "2026-08-07"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/uber-and-wayve-win-licenses-for-supervised-robotaxis-in-london",
+    "company": "Wayve",
+    "headline": "Uber and Wayve win licenses for supervised robotaxis in London",
+    "posted_date": "2026-08-07"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "company": "OpenAI",
+    "headline": "OpenAI acquires AI presentation startup NextSlide",
+    "posted_date": "2026-08-10"
+  },
+  {
+    "url": "https://www.law.com/legaltechnews/2026/08/07/anthropic-appoints-legal-tech-founder-robert-mahari-as-head-of-claude-for-legal-/",
+    "company": "Anthropic",
+    "headline": "Anthropic appoints Robert Mahari as Head of Claude for Legal",
+    "posted_date": "2026-08-10"
+  },
+  {
+    "url": "https://x.ai/build/changelog",
+    "company": "xAI",
+    "headline": "xAI ships Grok Build 1.0, taking its coding-agent CLI out of beta",
+    "posted_date": "2026-08-10"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
+    "company": "Meta AI",
+    "headline": "Meta releases new open-source AI models as Zuckerberg publishes AI manifesto",
+    "posted_date": "2026-08-11"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot",
+    "company": "Anthropic",
+    "headline": "Anthropic signs $9.1B, 20-year compute deal with Riot Platforms",
+    "posted_date": "2026-08-11"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "company": "OpenAI",
+    "headline": "OpenAI launches GPT-5.6 Cyber model, splits Daybreak program into Blue/Red access tiers",
+    "posted_date": "2026-08-12"
+  },
+  {
+    "url": "https://www.androidauthority.com/chatgpt-restaurant-reservations-and-waitlists-3696712/",
+    "company": "OpenAI",
+    "headline": "ChatGPT adds in-chat restaurant reservations via OpenTable, Resy, and Yelp",
+    "posted_date": "2026-08-12"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "company": "Anthropic",
+    "headline": "Anthropic will watermark all Claude-generated text to comply with the EU AI Act",
+    "posted_date": "2026-08-12"
+  },
+  {
+    "url": "https://www.globalfleet.com/en/technology-and-innovation/europe/news/zoox-launches-its-first-paid-robotaxi-rides-las-vegas",
+    "company": "Zoox",
+    "headline": "Zoox launches its first paid robotaxi rides in Las Vegas",
+    "posted_date": "2026-08-12"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "company": "OpenAI",
+    "headline": "OpenAI COO Brad Lightcap departs amid ongoing leadership shake-up",
+    "posted_date": "2026-08-13"
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+    "company": "xAI",
+    "headline": "xAI (SpaceXAI) launches Grok Bot, an agentic assistant for persistent work automation",
+    "posted_date": "2026-08-13"
+  },
+  {
+    "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+    "company": "xAI",
+    "headline": "xAI (SpaceXAI) debuts Grok 4.6, topping Kimi K3 and matching GPT-5.6 Sol",
+    "posted_date": "2026-08-13"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "company": "OpenAI",
+    "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer amid ongoing executive shake-up",
+    "posted_date": "2026-08-14"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "company": "OpenAI",
+    "headline": "OpenAI launches \"Ultrafast\" mode for GPT-5.6 Sol, running up to 14x faster via Cerebras hardware",
+    "posted_date": "2026-08-14"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "company": "Microsoft AI",
+    "headline": "Microsoft merges its consumer and business Copilot apps and cuts underperforming AI features",
+    "posted_date": "2026-08-14"
+  },
+  {
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "company": "Anthropic",
+    "headline": "Anthropic makes Auto Mode the default permission setting in Claude Code for Pro, Max, and Team plans",
+    "posted_date": "2026-08-14"
+  }
+]
